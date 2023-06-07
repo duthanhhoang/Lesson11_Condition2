@@ -1,0 +1,4 @@
+- Dựng giao diện
+- Click thì hiển thị màn hình
+- Tính toán kết quả
+- Hiển thị ra màn hình
